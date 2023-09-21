@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=804c80&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Pedro+Henrique;I'm+19+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+- 🔍 Procurando meu primeiro trabalho na área
+- ⌛ Estudando Front-end e Frameworks
+- 📫 Contate-me no email: pedronatalr@gmail.com
+- 🎓 Estudando Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
+
+<h3> 🚀 &nbsp;Minhas Skills </h3>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
