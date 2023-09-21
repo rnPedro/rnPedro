@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: pedronatalr@gmail.com
 - 🎓 Estudando Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
 
-  ##
+##
 <div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rnPedro&show_icons=true&count_private=true&hide_border=true&title_color=804c80&icon_color=804c80&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnPedro&layout=compact&hide_border=true&title_color=804c80&text_color=804c80&bg_color=0d1117" />
@@ -21,6 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
