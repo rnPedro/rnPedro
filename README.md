@@ -5,7 +5,7 @@
 - 🔍 Procurando meu primeiro trabalho na área
 - ⌛ Estudando Front-end e Frameworks
 - 📫 Contate-me no email: pedronatalr@gmail.com
-- 🎓 Estudando Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
+- 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
 
 ##
 <div>  
