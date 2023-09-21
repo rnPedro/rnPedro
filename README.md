@@ -7,6 +7,14 @@
 - 📫 Contate-me no email: pedronatalr@gmail.com
 - 🎓 Estudando Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
 
+  ##
+<div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rnPedro&show_icons=true&count_private=true&hide_border=true&title_color=804c80&icon_color=804c80&text_color=c9d1d9&bg_color=0d1117" alt="Pedro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnPedro&layout=compact&hide_border=true&title_color=804c80&text_color=804c80&bg_color=0d1117" />
+</div>
+
+##
+
 <h3> 🚀 &nbsp;Minhas Skills </h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -19,4 +27,6 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+ ## 
 
