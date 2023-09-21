@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0000FF&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=804c80&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Pedro+Henrique;I'm+19+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Pedro+Henrique;I'm+19+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔍 Procurando meu primeiro trabalho na área
 - ⌛ Estudando Front-end e Frameworks
