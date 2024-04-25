@@ -5,7 +5,7 @@
 - 🔍 Procurando meu primeiro trabalho na área
 - ⌛ Estudando Blockchain
 - 📫 Contate-me no email: pedronatalr@gmail.com
-- 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
+- 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
 
 ##
 <div>  
