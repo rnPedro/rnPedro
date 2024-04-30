@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Pedro+Henrique;I'm+20+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔍 Procurando meu primeiro trabalho na área
+- 🔍 Estágiario de Blockchain e AWS
 - ⌛ Estudando Blockchain
 - 📫 Contate-me no email: pedronatalr@gmail.com
 - 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
