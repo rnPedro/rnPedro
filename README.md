@@ -1,6 +1,5 @@
 # About Me
-
-- 🔍 Programador trainee na Compass UOL<br>- ⌛ Estudando Back-End e IA<br>- 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
+🔍 Programador trainee na Compass UOL<br> ⌛ Estudando Back-End e IA<br> 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
 
 
 ## 🌐 Socials:
