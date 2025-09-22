@@ -1,5 +1,5 @@
 # About Me
-🔍 Programador trainee na Compass UOL<br> ⌛ Estudando Back-End e IA<br> 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
+🔍 Estagiário no Bradesco<br> ⌛ Estudando Back-End e IA<br> 🎓 Graduação em andamento no curso de Sistemas de Informação na UFU - Universidade Federal de Uberlândia e Ciência de Dados na Uniube - Universidade de Uberaba.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-rossetto-33216b245/) 
